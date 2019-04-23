@@ -1,7 +1,7 @@
 # modulespanel
 
-This is a collection of data science and machine learning algorithm implementation,
-helpful for small, medium and big companies.
+This is a collection of data science and machine learning algorithms implementation.
+Helpful for small, medium and big size companies.
 
 
 
