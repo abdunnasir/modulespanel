@@ -69,7 +69,7 @@ class LinearRegressionAPI(Resource):
             return jsonify(lr.predict([[year]]).tolist())
         except Exception as e:
             data = {}
-            # Better pproach is log the error and return something went wrong.
+            # TODO: log str(e) and return generic  error message.
             data['message'] = str(e)
             json_data = json.dumps(data)
             return json_data, 500
