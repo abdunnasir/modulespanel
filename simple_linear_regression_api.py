@@ -1,6 +1,6 @@
  """
     Predict salary based on year
-    Copyright (C) 2019  Abdunnasir.K.P
+    Copyright (C) 2019  Abdunnasir.K.P <abdunnasirkp@gmail.com>
 
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
